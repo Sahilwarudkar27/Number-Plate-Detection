@@ -1,6 +1,6 @@
-pandas
-matplotlib
-streamlit
-opencv-python-headless
-ultralytics
-numpy
+streamlit==1.28.1
+numpy==1.26.2
+opencv-python-headless==4.8.1.78
+ultralytics==8.0.150
+pandas==2.1.1
+matplotlib==3.8.1
