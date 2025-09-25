@@ -1,7 +1,6 @@
 pandas
 matplotlib
 streamlit
-opencv-python
+opencv-python-headless
 ultralytics
 numpy
-
